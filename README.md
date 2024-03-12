@@ -1,1 +1,1 @@
-End to End Deep Learning Project for votality prediction in share market
+End to end deep learning project for votality prediction in share market
